@@ -4,7 +4,7 @@
   <a href="https://rashmithaettadi.github.io/portfolioReact/">Portfolio</a> •
   <a href="https://www.linkedin.com/in/rashmithaettadi/">LinkedIn</a> •
   <a href="mailto:rashmithaettadi99@gmail.com">Email</a> •
-  <a href="https://github.com/RashmithaEttadi">GitHub</a>
+  <a href="https://github.com/RashmithaEttadi">GitHub</a> •
   <a href="https://leetcode.com/u/ReddyRashmitha/">LeetCode</a>
 </p>
 
@@ -13,7 +13,7 @@
 ### 🚀 About Me  
 I am a **Software Engineer** passionate about **backend development, databases, and full-stack applications**. I have experience with **Java, JavaScript, React, MongoDB, SQL, and Python**. I love solving complex problems, designing scalable systems, and continuously learning new technologies.
 
-- 🔭 Currently working on: **Typescript, MongoDB, Docker technologies for Holiday Channel Organization**
+- 🔭 Currently working on: **Typescript, MongoDB, Docker technologies**
 - 🌱 Learning **MERN stack**
 - 💡 Interested in **Machine Learning, AI, and System Design**
 - 💬 Ask me about **Backend Development, Databases, and Software Engineering**
@@ -27,10 +27,11 @@ I am a **Software Engineer** passionate about **backend development, databases, 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-#### **Frameworks & Libraries:**  
+#### **Frameworks & Libraries:** 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
 
 #### **Databases:**  
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -49,7 +50,6 @@ I am a **Software Engineer** passionate about **backend development, databases, 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RashmithaEttadi&show_icons=true&theme=dark" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RashmithaEttadi&theme=dark" width="48%" alt="GitHub Streak"/>
 </p>
 
 ---
