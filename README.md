@@ -14,7 +14,7 @@
 I am a **Software Engineer** passionate about **backend development, databases, and full-stack applications**. I have experience with **Java, JavaScript, React, MongoDB, SQL, and Python**. I love solving complex problems, designing scalable systems, and continuously learning new technologies.
 
 - 🔭 Currently working on: **Typescript, MongoDB, Docker technologies**
-- 🌱 Learning **MERN stack**
+- 🌱  **MERN stack**
 - 💡 Interested in **Machine Learning, AI, and System Design**
 - 💬 Ask me about **Backend Development, Databases, and Software Engineering**
 
