@@ -11,10 +11,10 @@
 ---
 
 ### 🚀 About Me  
-I am a **Software Engineer** passionate about **backend development, databases, and full-stack applications**. I have experience with **Java, JavaScript, React, MongoDB, SQL, and Python**. I love solving complex problems, designing scalable systems, and continuously learning new technologies.
+I am a **Software Engineer** passionate about **backend development, databases, and full-stack applications**. I have experience with **Java, JavaScript, Angular, MongoDB, SQL, and Python**. I love solving complex problems, designing scalable systems, and continuously learning new technologies.
 
-- 🔭 Currently working on: **Typescript, MongoDB, Docker technologies**
-- 🌱  **MERN stack**
+- 🔭 Currently working on: **Python, Django, Docker Technologies, Agentic AI**
+- 🌱  **Generative AI**
 - 💡 Interested in **Machine Learning, AI, and System Design**
 - 💬 Ask me about **Backend Development, Databases, and Software Engineering**
 
@@ -28,7 +28,7 @@ I am a **Software Engineer** passionate about **backend development, databases, 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 #### **Frameworks & Libraries:** 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![Angular](https://img.shields.io/badge/Angular-20232A?style=for-the-badge&logo=angular&logoColor=61DAFB) 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
